@@ -74,9 +74,12 @@
 ---
 
 ## 🚀 GitHub Stats  
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anurag-sharma17&theme=aura_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=anurag-sharma17&theme=aura_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anurag-sharma17&theme=aura_dark)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anurag-sharma17&show_icons=true&theme=radical&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anurag-sharma17&layout=compact&theme=radical&count_private=true" />
+</div>
+
+
 
 ---
 
