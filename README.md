@@ -58,7 +58,7 @@
 - Full-stack web app for college-related tasks like timetable syncing, event management, and teacher availability tracking.  
 - Built with **MERN stack**.  
 
-### 🔥 **POSIX Compliant Shell (Python)**  
+### 🔥 **POSIX Compliant Shell (Python)** [🔗](https://github.com/anurag-sharma17/my-own-shell.git)  
 - Python-based command-line shell supporting POSIX commands with features like command parsing, redirection, and autocompletion.  
 
 ### 📊 **Student Database Management System**  
