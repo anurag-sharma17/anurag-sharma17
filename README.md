@@ -55,11 +55,16 @@
 
 ## 💻 Projects  
 
-### 🌐 College Buddy Web Application (In Progress)  
+### 🌐 College Buddy Web Application (In Progress) [🔗 GitHub](https://github.com/anurag-sharma17/college-buddy.git) 
 - Full-stack web app for college-related tasks like timetable syncing, event management, and teacher availability tracking.  
-- Built with **MERN stack**.  
+- Built with **MERN stack**.
 
-### 🔥 **POSIX Compliant Shell (Python)** [🔗](https://github.com/anurag-sharma17/my-own-shell.git)  
+### 📝 Notes App [🔗 GitHub](https://github.com/anurag-sharma17/Notes-App.git) | [🔗 Live Demo](https://anurags-notes-app.vercel.app/)
+- A clean and responsive notes application to create, edit, and delete personal notes with a simple UI.
+- Built using the MERN stack, featuring RESTful APIs, React hooks, and MongoDB for data persistence.
+- Auth system included for secure note management.
+
+### 🔥 **POSIX Compliant Shell (Python)** [🔗 GitHub](https://github.com/anurag-sharma17/my-own-shell.git)  
 - Python-based command-line shell supporting POSIX commands with features like command parsing, redirection, and autocompletion.  
 
 ### 📊 **Student Database Management System**  
