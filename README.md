@@ -91,8 +91,6 @@
 
 ![Snake animation](https://github.com/anurag-sharma17/anurag-sharma17/blob/output/github-contribution-grid-snake.svg)
 
-
-
 ---
 
 ## 📫 Let's Connect  
