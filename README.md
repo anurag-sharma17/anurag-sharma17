@@ -112,5 +112,3 @@
 </p>
 
 ---
-
-✅ *“Coding is my canvas, and logic is my brush!”* 🎯
