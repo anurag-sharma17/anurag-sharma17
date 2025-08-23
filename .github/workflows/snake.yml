@@ -3,12 +3,14 @@ name: Generate Snake
 on:
   schedule:
     - cron: "0 0 * * *"   # runs daily at midnight
-  workflow_dispatch:      # allow manual trigger
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   generate:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
